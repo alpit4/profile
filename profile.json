@@ -1,0 +1,68 @@
+{
+	"basics": {
+		"name": "Alpit Kumar",
+		"label": "Student",
+		"picture": "",
+		"email": "2021kuec2040@iiitkota.ac.in",
+		"phone": "+917615012177",
+		"summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Electronics and communication engineering. I got interest in web development in 1st year.Currently i am brushing my skill to create project using web development.",
+		"location": {
+			"address": "Jaipur",
+			"postalCode": "302034",
+			"city": "Jaipur",
+			"countryCode": " India",
+			"region": "Rajasthan"
+		},
+		"profiles": [{
+				"network": "Github",
+				"username": "alpit4",
+				"url": "https://www.github.com/alpit4"
+			},
+			{
+				"network": "linkedin",
+				"username": "Alpit Kumar",
+				"url": "https://www.linkedin.com/in/alpit-kumar-301265224/"
+			}
+		]
+	},
+	"work": [],
+	"education": [{
+		"institution": "Indian Institute of Information Technology,Kota",
+		"area": "Engineering",
+		"studyType": "B.Tech",
+		"startDate": "",
+		"endDate": "",
+		"gpa": "",
+		"courses": [
+			"Electronics and Communication Engineering"
+		]
+	}],
+	"awards": [{}],
+	"skills": [{
+		"name": "Web Development",
+		"level": "Basic",
+		"keywords": [
+			"HTML",
+			"CSS",
+			"C-language"
+		]
+	}],
+	"languages": [{
+		"language": "English",
+		"fluency": "Native speaker"
+	}],
+	"interests": [{
+			"name": "Outdoor Games",
+			"keywords": [
+				"Football"
+			]
+		},
+		{
+			"name": "Playing",
+			"keywords": [
+				"Chess",
+				"Badminton"
+			]
+		}
+	]
+}
